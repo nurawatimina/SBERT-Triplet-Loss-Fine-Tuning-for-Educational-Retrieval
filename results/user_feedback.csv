@@ -1,0 +1,2 @@
+query,answer,rating,comment,embedding_type,retrieval_time,generation_time,total_time
+Apa itu Cambridge Checkpoint?,Cambridge Checkpoint adalah sebuah program pengujian yang dirancang oleh Universitas Cambridge untuk menilai siapnya siswa untuk melanjutkan pendidikan di sekolah menengah atas atau universitas. Program ini membantu siswa mempersiapkan diri dengan menguji kemampuan mereka dalam berbagai mata pelajaran.,5,,baseline,0.0003,15.1376,15.138
